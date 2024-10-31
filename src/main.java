@@ -39,9 +39,6 @@ public class main {
         
     }
 
-
-    
-
     public static void reservarSala(sala Sala, Scanner consola,List<String> lista){
         var flag = false;
         int fila,asiento;
